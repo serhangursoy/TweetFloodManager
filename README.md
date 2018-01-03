@@ -8,4 +8,7 @@ Tweet Flood Manager allows you to edit your Tweets. Its most sophisticated featu
  
  **You need your Twitter API Key if you want to modify code**!
  
+ ![alt_text](http://tw.greywool.com/i/91b7t.png)
+ ![alt_text](http://tw.greywool.com/i/0_Ug4.png)
+ ![alt_text](http://tw.greywool.com/i/FzlaH.png)
  ![alt_text](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/3f/550724/c9d7193c98af0cd4ffcd1b3c3a2b3498-original.jpg)
